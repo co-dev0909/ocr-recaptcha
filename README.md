@@ -6,7 +6,7 @@ This project is an end-to-end OCR system designed to recognize CAPTCHA images—
 
 ## 📸 Overview
 
-![example](https://github.com/aimaster-dev/ocr-recaptcha/raw/main/temp.png)
+![example](https://github.com/co-dev0909/ocr-recaptcha/raw/main/temp.png)
 
 ---
 
@@ -41,7 +41,7 @@ ocr-recaptcha/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/aimaster-dev/ocr-recaptcha.git
+git clone https://github.com/co-dev0909/ocr-recaptcha.git
 cd ocr-recaptcha
 pip install -r requirements.txt
 ```
@@ -166,7 +166,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-Maintained by **[aimaster-dev](https://github.com/aimaster-dev)**.
+Maintained by **[co-dev0909](https://github.com/co-dev0909)**.
 
 ---
 
